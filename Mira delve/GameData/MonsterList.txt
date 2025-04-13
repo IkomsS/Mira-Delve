@@ -1,0 +1,25 @@
+;; *************** MonsterList.txt ***************
+;; Monster list export. Saturday, April 12, 2025 4:31:01 AM
+
+;;;; 0	GameItem: Player ID=0
+;;;; 1	GameItem: ProjectileWeapon ID=1
+;;;; 2	GameItem: ProjPickup ID=2
+;;;; 3	GameItem: Sword ID=3
+;;;; 4	GameItem: Key ID=4
+;;;; 5	GameItem: health Pickup ID=5
+;;;; 6	GameItem: Money pickup ID=6
+;;;; 7	GameItem: Test Shop Pickup ID=7
+;;;; 8	GameItem: Bomb ID=8
+;;;; 9	GameItem: Explosion ID=9
+;;;; 10	GameItem: Effect 2 ID=10
+;;;; 11	GameItem: Effect 3 ID=11
+;;;; 12	GameItem: Effect 4 ID=12
+;;;; 13	GameItem: Effect 5 ID=13
+;;;; 14	GameItem: Effect 6 ID=14
+;;;; 15	GameItem: Effect 7 ID=15
+;;;; 0	Monster: NPCguy ID=0
+;;;; 1	Monster: Slime ID=1
+;;;; 2	Monster: Sign ID=2
+;;;; 3	Monster: Chest ID=3
+;;;; 4	Monster: Chest Tile 0 ID=4
+;;;; 5	Monster: Spike guy ID=5

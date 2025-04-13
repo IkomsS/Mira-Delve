@@ -1,0 +1,33 @@
+;; *************** HUD_UPDATES.dat ***************
+;; HUD includes export. Saturday, April 12, 2025 4:20:00 AM
+
+updateHudElement0:
+ RTS
+
+updateHudElement1:
+DrawTilesDirect #HUD_BANK, HUD__0_1_STRING, #6, #1, #HUD_OFFSET
+ RTS
+
+updateHudElement2:
+DrawVariableTiles #11, #1, #BOX_0_ASSET_2_MAX_VALUE , #BOX_0_ASSET_2_BLANK , myHealth, #BOX_0_ASSET_2_IMAGE , #HUD_OFFSET 
+ RTS
+
+updateHudElement3:
+DrawTilesDirect #HUD_BANK, HUD__0_3_STRING, #1, #1, #HUD_OFFSET
+ RTS
+
+updateHudElement4:
+DrawNumber #2, #1, myMoney , #BOX_0_ASSET_4_MAX_VALUE
+ RTS
+
+updateHudElement5:
+DrawNumber #3, #2, myKeys , #BOX_0_ASSET_5_MAX_VALUE
+ RTS
+
+updateHudElement6:
+DrawTilesDirect #HUD_BANK, HUD__0_6_STRING, #1, #2, #HUD_OFFSET
+ RTS
+
+updateHudElement7:
+ RTS
+
